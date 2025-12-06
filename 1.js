@@ -12,3 +12,8 @@ console.log(typeof loggedIn);
 let booleanLoggedIn = Boolean(loggedIn)
 console.log(typeof booleanLoggedIn);
 console.log(booleanLoggedIn)
+
+// Negative number
+let number = 3
+let negativeNumber = -number
+console.log(negativeNumber);
