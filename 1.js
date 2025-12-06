@@ -1,3 +1,9 @@
+// datatypes
+let name = "javascript"
+let age = 00
+let isLoggedIn = true
+
+
 //conversion string to number
 let value = "code"
 console.log(typeof value);
@@ -17,3 +23,12 @@ console.log(booleanLoggedIn)
 let number = 3
 let negativeNumber = -number
 console.log(negativeNumber);
+
+// conversion number to string
+let firstNumber = 82
+let firstString = String(firstNumber)
+console.log(firstNumber);
+console.log(typeof firstNumber);
+
+console.log(firstString);
+console.log(typeof firstString);
