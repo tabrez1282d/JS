@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node related (future use)
+node_modules/
+
+# Build / compiled files
+*.exe
+
+# Editor files
+.vscode/
