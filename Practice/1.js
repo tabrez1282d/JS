@@ -1,6 +1,6 @@
 // datatypes
 let name = "javascript"
-let age = 00
+let age = 100 ;
 let isLoggedIn = true
 
 
